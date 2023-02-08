@@ -30,8 +30,6 @@ Your app is ready to be deployed!
 
 ## Learn More - Backend Applications
 
-You can learn more below in given references
-
 [Node.js Express MongoDB CRUD Example](https://www.techgeeknext.com/express-mongo-crud-example).
 
 [Node.js Express MySQL CRUD Example](https://www.techgeeknext.com/express-mysql-crud-example/).
