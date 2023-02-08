@@ -59,7 +59,7 @@ useEffect(() => {
       <Form onSubmit={submitActionHandler} id="data">
       <Form.Group  controlId="form.id">
             <Form.Label>Id</Form.Label>
-            <Form.Control type="number" value={empId} readonly='readonly'/>
+            <Form.Control  value={empId} readonly='readonly'/>
         </Form.Group>
         <Form.Group controlId="form.Name">
             <Form.Label>User Name</Form.Label>
